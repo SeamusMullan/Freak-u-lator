@@ -1,1 +1,2 @@
 def calculate(data):
+    pass
